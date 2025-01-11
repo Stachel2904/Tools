@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
-namespace DivineSkies.Tools.Extension
+namespace DivineSkies.Tools.Extensions
 {
     public static class ListExtensions
     {

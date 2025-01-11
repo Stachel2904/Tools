@@ -1,6 +1,7 @@
 using UnityEngine;
+using DivineSkies.Tools.Helper;
 
-namespace DivineSkies.Tools.Extension
+namespace DivineSkies.Tools.Extensions
 {
     public static class VectorExtensions
     {

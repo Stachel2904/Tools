@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace DivineSkies.Tools.Extension
+namespace DivineSkies.Tools.Extensions
 {
     public static class ColorExtensions
     {

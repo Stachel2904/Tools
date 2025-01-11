@@ -1,9 +1,7 @@
-using FEA.Modules;
-using FEA.Modules.UI;
-using System;
 using UnityEngine;
+using UnityEngine.EventSystems;
 
-namespace DivineSkies.Tools.Extension
+namespace DivineSkies.Tools.Extensions
 {
     public static class TransformExtensions
     {

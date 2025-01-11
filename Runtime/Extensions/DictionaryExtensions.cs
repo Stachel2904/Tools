@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace DivineSkies.Tools.Extension
+namespace DivineSkies.Tools.Extensions
 {
     public static class DictionaryExtensions
     {

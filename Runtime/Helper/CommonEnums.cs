@@ -9,7 +9,7 @@ namespace DivineSkies.Tools.Helper
 
     public static class ExtendedBooleanExtensions
     {
-        public static bool? ToBool(this ExtendedBoolean source) => return source switch
+        public static bool? ToBool(this ExtendedBoolean source) => source switch
         {
             ExtendedBoolean.True => true,
             ExtendedBoolean.False => false,
